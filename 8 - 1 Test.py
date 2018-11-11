@@ -1,3 +1,6 @@
+#I designed a quick test to evaluate the model based on works done in the English language. These tests do not challenge all aspects of the model,
+#they rather give us a quick, general overview as to how much we can trust our current model. 
+
 from gensim.models import Word2Vec
 import numpy as np
 import scipy
